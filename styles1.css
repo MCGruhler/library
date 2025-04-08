@@ -1,0 +1,13 @@
+#bookshelf{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.book{
+    background-color: black;
+}
+
+.info{
+    color: white;
+}
